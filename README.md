@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @umairk8devops
-- 👀 I’m Devops Engineer experienced in AWS, Docker, K8, Jenkins and CI-CD
+- 👀 I’m Devops Engineer experienced in AWS Services, Docker, Jenkins and CI-CD
 
 <!---
 umairk8devops/umairk8devops is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
